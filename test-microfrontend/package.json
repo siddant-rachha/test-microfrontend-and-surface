@@ -1,8 +1,8 @@
 {
   "name": "test-microfrontend",
   "version": "1.0.1",
-  "main": "dist/index.js",
-  "types": "dist/types/index.d.ts",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
   "files": [
   "dist"
   ],

@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "workspaces":[
+    "test-microfrontend",
+    "test-surface"
+  ],
+  "name": "test-microfrontend-and-surface",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddant-rachha/test-microfrontend-and-surface.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddant-rachha/test-microfrontend-and-surface/issues"
+  },
+  "homepage": "https://github.com/siddant-rachha/test-microfrontend-and-surface#readme",
+  "description": ""
+}

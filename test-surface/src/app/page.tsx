@@ -1,5 +1,9 @@
+// import {MuiButton} from 'test-microfrontend'
 export default function Home() {
   return (
-    <div>Test Surface</div>
+    <div>
+      <h1>Home</h1>
+      {/* <MuiButton /> */}
+    </div>
   );
 }
